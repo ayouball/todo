@@ -2,26 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8115757-53ff-4fa0-8f9e-4bbeabaf4d93" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../speakwai/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../speakwai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../speakwai/src/setupTests.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MenuItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TaskModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDoLIst.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +39,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,6 +60,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/opt/PhpStorm-221.5921.28/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
